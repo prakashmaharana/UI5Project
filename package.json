@@ -1,0 +1,19 @@
+{
+  "name": "ui5project",
+  "version": "1.0.0",
+  "description": "ui5 project demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakashmaharana/UI5Project.git"
+  },
+  "author": "PrakashMaharana <abhay10284@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prakashmaharana/UI5Project/issues"
+  },
+  "homepage": "https://github.com/prakashmaharana/UI5Project#readme"
+}
